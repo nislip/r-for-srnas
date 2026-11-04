@@ -1,5 +1,4 @@
-# Statistics for SRNAs
----
+# R for SRNAs
 
 This repository is tailored towards SRNAs. It assumes no prior knowledge or coding, data analysis, and predictive modeling.
 
