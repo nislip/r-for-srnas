@@ -1,4 +1,4 @@
-# R for SRNAs
+# R for SRNAs - Introduction
 
 This repository is tailored towards SRNAs. It assumes no prior knowledge or coding, data analysis, and predictive modeling.
 
