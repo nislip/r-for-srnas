@@ -12,9 +12,9 @@ See the section "Getting Started" below for detailed steps on how to get started
 
 1. Using the link provided below, download the latest version of RStudio.
 
-https://docs.posit.co/ide/user/download.html
+    [Download Link for RStudio](https://docs.posit.co/ide/user/download.html)
 
-Regardless of whether or not you are operating off a MacBook, Windows PC, or Chromebook, RStudio is compatible!
+    - Regardless of whether or not you are operating off a MacBook, Windows PC, or Chromebook, RStudio is compatible!
 
 2. Once RStudio is downloaded, open it. Next, we will walkthrough how to navigate RStudio.
 
