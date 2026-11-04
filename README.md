@@ -8,8 +8,6 @@ See the section "Getting Started" below for detailed steps on how to get started
 
 ## Getting Started
 
-Wait! One last thing... R is used heavily throughout academia and industry. 
-
 ### Setting up RStudio
 
 1. Using the link provided below, download the latest version of RStudio.
